@@ -1,4 +1,4 @@
 # S.F.S.P - Software for simulating physics 
 I write this shit for fun... 
-So What docs and help? 
-Nothing for ya, brev!
+
+You want docs and stuff? I ain't gone do that!
