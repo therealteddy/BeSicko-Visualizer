@@ -1,4 +1,4 @@
-# VisualPhysics - Visualise Physics Concepts
+# BeSicko - Visualise Physics Concepts
 I write this shit for fun! So no docs for ya brudda! 
 
 ## Dependencies 
